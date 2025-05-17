@@ -20,9 +20,9 @@
     "search_provider": {
       "name": "Whoogle",
       "keyword": "@whoogle, @wg, @who, @wgl",
-      "search_url": "http://127.0.0.1:5000/search?q={searchTerms}",
+      "search_url": "https://whoogle.4040940.xyz/search?q={searchTerms}",
       "favicon_url": "whoogleicon.png",
-      "suggest_url": "http://127.0.0.1:5000/search?q={searchTerms}",
+      "suggest_url": "https://whoogle.4040940.xyz/search?q={searchTerms}",
       "is_default": true
     }
   }
